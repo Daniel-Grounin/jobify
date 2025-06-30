@@ -88,8 +88,6 @@ export const showStats = async (req, res) => {
     return acc;
   }, {});
 
-  console.log(stats);
-
   const defaultStats = {
     pending: stats.pending || 0,
     interview: stats.interview || 0,

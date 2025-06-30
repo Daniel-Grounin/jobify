@@ -16,9 +16,9 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby small batch celiac 3 wolf moon, humblebrag lo-fi crucifix
-            portland fanny pack cold-pressed butcher sus. Ramps synth gentrify
-            narwhal, copper mug kombucha skateboard.
+            Job-Tracker keeps every application, interview, and follow-up in one
+            beautifully simple dashboard, so you stay organized and focused on
+            what matters—getting hired.
           </p>
           <Link to="/register" className="btn register-link">
             Register
